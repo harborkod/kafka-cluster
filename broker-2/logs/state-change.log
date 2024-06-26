@@ -1,0 +1,5 @@
+[2024-06-25 15:40:23,685] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
+[2024-06-25 15:40:23,791] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set(0, 1) for 0 partitions (state.change.logger)
+[2024-06-25 15:40:27,529] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
+[2024-06-25 15:40:27,622] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set(0) for 0 partitions (state.change.logger)
+[2024-06-25 15:40:36,772] INFO [Controller id=0 epoch=1] Sending UpdateMetadata request to brokers Set() for 0 partitions (state.change.logger)
